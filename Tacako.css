@@ -28,8 +28,7 @@ div{
     width: 300px;
     text-align: center;
     font-size-adjust: inherit;
-    color: #fff3d3;
-    background-color: rgb(216, 49, 30);
+    color: red;
     padding:15px;
 }
 img{
