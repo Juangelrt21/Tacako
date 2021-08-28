@@ -31,7 +31,7 @@ div{
     padding:15px;
 }
 .subtitulo{
-    font-family:Copperplate;
+    font-family: Courier, "Lucida Console", monospace;
     font-size: 36pt;
     font-weight: bold;
     line-height: 100%;
